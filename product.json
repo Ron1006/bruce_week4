@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Play station",
+        "description": "Snoy",
+        "price": "$899",
+        "image": "https://ron1006.github.io/bruce_week4/test2.jpg"
+    },
+    
+    {
+        "name": "Xbox",
+        "description": "Microsoft",
+        "price": "$899",
+        "image": "https://ron1006.github.io/bruce_week4/test2.jpg"
+    },
+    
+    {
+        "name": "Switch",
+        "description": "Nitendo",
+        "price": "$899",
+        "image": "https://ron1006.github.io/bruce_week4/test2.jpg"
+    }
+]
