@@ -1,22 +1,22 @@
 [
     {
-        "name": "Play station",
-        "description": "Snoy",
+        "name": "Play Station 5",
+        "description": "Latest gaming console from Sony",
         "price": "$899",
         "image": "https://ron1006.github.io/bruce_week4/test2.jpg"
     },
     
     {
-        "name": "Xbox",
-        "description": "Microsoft",
-        "price": "$899",
+        "name": "XBox One Z",
+        "description": "Latest gaming console from Micosoft",
+        "price": "$799",
         "image": "https://ron1006.github.io/bruce_week4/test2.jpg"
     },
     
     {
-        "name": "Switch",
-        "description": "Nitendo",
-        "price": "$899",
+        "name": "Nitendo Switch",
+        "description": "Latest gaming console from Nitendo",
+        "price": "$699",
         "image": "https://ron1006.github.io/bruce_week4/test2.jpg"
     }
 ]
