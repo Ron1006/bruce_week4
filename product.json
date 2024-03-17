@@ -10,13 +10,13 @@
         "name": "XBox One Z",
         "description": "Latest gaming console from Micosoft",
         "price": "$799",
-        "image": "https://ron1006.github.io/bruce_week4/test2.jpg"
+        "image": "https://ron1006.github.io/bruce_week4/test3.jpg"
     },
     
     {
         "name": "Nitendo Switch",
         "description": "Latest gaming console from Nitendo",
         "price": "$699",
-        "image": "https://ron1006.github.io/bruce_week4/test2.jpg"
+        "image": "https://ron1006.github.io/bruce_week4/test4.jpg"
     }
 ]
